@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Safe
+  - ErrorLabel
+  - Interactable
+  - Anchor
+  - Digit1
+  - Digit2
+  - Digit3
+  - Digit4
+  - Digit5
+  - Digit6
+  - Digit7
+  - Digit8
+  - Digit9
+  - Digit0
+  - RedLever
+  - BlueLever
+  - GreenLever
+  - MapAnchor
+  - RedAlert
+  - Door
+  - Skybox
+  - Drawer
+  - WorldMap
+  - DebugText
+  - DoorMesh
+  - Wheel
+  - CipherKey
+  - Wheel2
+  - Wheel3
+  - DrawerKey
+  - yButton
+  - LevitatorAnchor
+  - zButton
+  - xButton
+  - Levitator
+  - DrawerParent
+  - Hint1
+  - Hint2
+  - Hint3
+  - Hint4
+  - Hint5
+  - Hint6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - InFrontOfUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InFrontOfUI
+    uniqueID: 3968692479
+    locked: 0
+  - name: UI
+    uniqueID: 1589315767
+    locked: 0

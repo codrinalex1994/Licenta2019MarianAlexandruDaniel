@@ -1,9 +1,9 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+/Licenta2019MarianAlexandruDaniel/ARF/[Ll]ibrary/
+/Licenta2019MarianAlexandruDaniel/ARF/[Tt]emp/
+/Licenta2019MarianAlexandruDaniel/ARF/[Oo]bj/
+/Licenta2019MarianAlexandruDaniel/ARF/[Bb]uild/
+/Licenta2019MarianAlexandruDaniel/ARF/[Bb]uilds/
+/Licenta2019MarianAlexandruDaniel/ARF/Assets/
 
 # Visual Studio cache directory
 .vs/
